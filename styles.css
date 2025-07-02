@@ -3,7 +3,7 @@
     background-image: url(family\ photo.jpeg); /* Replace with your image URL */
     background-size: cover;
     background-position: center 30%;
-    height: 300px;
+    height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,6 +30,9 @@
     color: white;
 }
   
+.container-fluid {
+    background-color: rgba(0, 119, 255, 0.158);
+}
   
   
   
