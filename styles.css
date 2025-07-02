@@ -3,7 +3,7 @@
     background-image: url(family\ photo.jpeg); /* Replace with your image URL */
     background-size: cover;
     background-position: center 30%;
-    height: 400px;
+    height: 300px;
     display: flex;
     align-items: center;
     justify-content: center;
